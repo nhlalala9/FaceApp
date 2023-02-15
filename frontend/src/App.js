@@ -1,6 +1,5 @@
-import './App.css';
-import Sidebar from "./sidebar/sidebar";
-import Topbar from "./topbar/Topbar";
+import Sidebar from "./components/sidebar/sidebar";
+import Topbar from "./components/topbar/Topbar";
 
 function App() {
   return (
