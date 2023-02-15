@@ -6,7 +6,7 @@ export default function Topbar() {
     return (
         <div className="topbarContainer">
             <div className="topbarLeft">
-                <span className="logo">NewFacebook</span>
+                <img src="/assets/facebook.png" alt="" className="topbarImg"/>
             </div>
             <div className="topbarCentre">
                 <div className="searchbar">

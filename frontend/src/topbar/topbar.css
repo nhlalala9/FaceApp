@@ -11,6 +11,7 @@
 
 .topbarLeft {
     flex: 3;
+    margin-right: 10%;
 }
 
 .logo {
