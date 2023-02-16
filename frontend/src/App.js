@@ -9,7 +9,7 @@ function App() {
       <Topbar />
       <Sidebar />
       {/* <Feed /> */}
-        <Rightbar />
+      <Rightbar />
     </div>
 
   );
