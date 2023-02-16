@@ -7,37 +7,37 @@ export const Users = [
     {
         id: 2,
         profilePicture: "assets/persons/2.jpg",
-        username: "Nhlalala Nwandzule",
+        username: "Git Nwandzule",
     },
     {
         id: 3,
         profilePicture: "assets/persons/3.jpg",
-        username: "Nhlalala Nwandzule",
+        username: "YES Nwandzule",
     },
     {
         id: 4,
         profilePicture: "assets/persons/4.jpg",
-        username: "Nhlalala Nwandzule",
+        username: "Nsono Nwandzule",
     },
     {
         id: 5,
         profilePicture: "assets/persons/5.jpg",
-        username: "Nhlalala Nwandzule",
+        username: "Dj Nwandzule",
     },
     {
         id: 6,
         profilePicture: "assets/persons/6.jpg",
-        username: "Nhlalala Nwandzule",
+        username: "Best Nwandzule",
     },
     {
         id: 7,
         profilePicture: "assets/persons/7.jpg",
-        username: "Nhlalala Nwandzule",
+        username: "Khoma Nwandzule",
     },
     {
         id: 8,
         profilePicture: "assets/persons/8.jpg",
-        username: "Nhlalala Nwandzule",
+        username: "Jack Nwandzule",
     },
 
 ];
