@@ -17,7 +17,7 @@ export default function Register() {
                 <input placeholder='Email' className="loginInput" />
                 <input placeholder='Password' className="loginInput" />
                 <input placeholder='Password Again' className="loginInput" />
-                <button className="loginButton">Sign up</button>
+                <button className="loginButton">Register</button>
                 <button className='loginRgisterButton'>
                     Log into account
                 </button>
